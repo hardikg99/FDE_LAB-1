@@ -21,7 +21,6 @@ Rank	Product ID	Total Revenue	Avg. Sentiment Score
 This means your top 5 products by revenue are P104, P101, P103, P102, P105, and their average sentiment scores range from about 2.88 to 3.05 (on a scale of 1–5).
 
 
-
 Required Data Points
 
 From sales_data_raw.csv:
